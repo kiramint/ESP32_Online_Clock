@@ -1,0 +1,11 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "string": "cpp"
+    },
+    "FSharp.suggestGitignore": false
+}
